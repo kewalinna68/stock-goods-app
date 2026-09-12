@@ -1,0 +1,8 @@
+{
+  "name": "ระบบจัดการสต๊อกร้านของชำ",
+  "description": "เว็บแอปพลิเคชันสำหรับจัดการสต๊อกและคลังสินค้าของร้านขายของชำ รองรับมือถือ บันทึกรับเข้า-จ่ายออก แจ้งเตือนสินค้าใกล้หมด และเชื่อมต่อ Google Sheets",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
